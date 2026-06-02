@@ -1,6 +1,8 @@
 # Moshkin Artem
 ## Senior Frontend Developer
 
+Contacts: `dc53bq gmail.com`
+
 Seasoned frontend developer building for the long game—where clean, maintainable code meets performance and accessibility by default. Guided by web standards, open platforms, and the open-source spirit, I craft resilient interfaces that work for everyone, everywhere.
 
 ---
