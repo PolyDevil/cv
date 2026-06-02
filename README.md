@@ -77,7 +77,7 @@ Typescript, JavaScript, Rescript, HTML, CSS
 ReactJS, NextJS, Qwik.dev, Remix, React-router(v7), ThreeJS
 
 ### Tools & Practices
-Module Federation, GraphQL, Docker, Grafana, k6, Playwright, Jest, Enzyme, CSS Modules, Styled-components
+Module Federation, Canvas, GraphQL, Docker, Grafana, k6, Playwright, Jest, Enzyme, CSS Modules, Styled-components
 
 I treat performance as architecture, not an afterthought.
 In a world racing toward the next abstraction, I’ve found that the most resilient solutions are often the ones already baked into the platform. Sometimes the best move isn’t adding more — it’s embracing the fundamentals.
