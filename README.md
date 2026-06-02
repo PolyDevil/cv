@@ -47,8 +47,8 @@ Stack: ReactJS, Typescript, Rescript, NextJS, css modules, GraphQL;
 
 ### Pine Forest AI (Russia, Moscow)
 #### Senior Frontend Developer + Cofounder; January 2024 - June 2024 (6 months)
- - Designed and developed a platform for students to trains for Unified State Exam
- - Designed and developed an app to transcribe audio and filing the medical docs
+ - Designed and developed a platform for students to trains for Unified State Exam (https://pineforest-ai.ru/cases/cyberrepetitor)
+ - Designed and developed an app to transcribe audio and filing the medical docs (https://pineforest-ai.ru/cases/medAi)
 
 Stack: ReactJS, React-router, Typescript, css modules, GraphQL, Qwik.dev, NextJS, http streaming, websockets;
 
